@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 2D Game Design
 - 💞️ I’m looking to collaborate on Game Related Projects
 - 📫 How to reach me? Probably Mail Me
-- ⚡ Fun fact: I Dont't Feel Like Living With My Ducked Up Schedule
+- ⚡ Fun fact: Life no fun, Code is fun.
 
 <!---
 JafarMustafazada/JafarMustafazada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
