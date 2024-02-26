@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JafarMustafazada
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning 2D Game Design
-- 💞️ I’m looking to collaborate on Game Related Projects
-- 📫 How to reach me? Probably Mail Me
-- ⚡ Fun fact: Life no fun, Code is fun.
+- 💞️ I’m looking to collaborate on game related projects
+- 📫 How to know me better? "https://github.com/MustafazadeJafar"
+- ⚡ Fun fact: Life no fun, video games and coding is.
 
 <!---
 JafarMustafazada/JafarMustafazada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
