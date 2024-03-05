@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning 2D Game Design
 - 💞️ I’m looking to collaborate on game related projects
-- 📫 How to know me better? "https://github.com/MustafazadeJafar"
+- 📫 How to contact me? through work e-mail: jafar.mustafazada@gmail.com
 - ⚡ Fun fact: Life no fun, video games and coding is.
 
 <!---
